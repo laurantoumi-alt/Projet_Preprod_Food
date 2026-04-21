@@ -32,7 +32,7 @@ class TestFood(unittest.TestCase):
         apple.set_fat(0.2)
         self.assertFalse(apple.is_fat())
 
-        # Exactement au seuil (20g) — pas considéré comme gras
+        # Exactement au seuil (20g) - pas considéré comme gras
         neutral = Food()
         neutral.set_name('neutral')
         neutral.set_fat(20.0)
