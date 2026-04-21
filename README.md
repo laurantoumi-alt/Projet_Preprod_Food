@@ -1,10 +1,5 @@
 # Projet_Preprod_Food
-Scraper Python pour récupérer les informations nutritionnelles des aliments via Open Food Facts
-
-# Projet Food
-
-## Description
-Scraper Python qui récupère les informations nutritionnelles d'un aliment depuis le site Open Food Facts et les sauvegarde dans un fichier CSV.
+Scraper Python pour récupérer les informations nutritionnelles des aliments via Open Food Facts et les sauvegarder dans un fichier CSV.
 
 ## Fichiers
 - `food.py` - la classe Food avec toutes ses fonctions
